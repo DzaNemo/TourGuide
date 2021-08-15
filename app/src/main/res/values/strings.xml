@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- names of categories-->
+    <string name="accommodation">Accommodation</string>
+    <string name="food">Food</string>
+    <string name="drink">Drink</string>
+    <string name="fun">Fun</string>
+
+    <!-- ACCOMMODATION -->
+    <string name="accommodation_1">Hotel_1</string>
+    <string name="information_1">
+        Address:
+        \n620 Eight Avenue New York, NY 10018
+        \n\n Opening time:
+        \n 9:00 - 22:00
+        \n\n Phone: 0055 987-3684
+        \n\n Official website:
+        \n lorem.ipsum@lorem.com
+    </string>
+
+
+    <string name="accommodation_2">Hotel_2</string>
+    <string name="information_2">
+        Address:
+        \n620 Eight Avenue New York, NY 10018
+        \n\n Opening time:
+        \n 9:00 - 22:00
+        \n\n Phone: 0055 987-3684
+        \n\n Official website:
+        \n lorem.ipsum@lorem.com
+    </string>
+
+    <string name="accommodation_3">Hotel_3</string>
+    <string name="information_3">
+        Address:
+        \n620 Eight Avenue New York, NY 10018
+        \n\n Opening time:
+        \n 9:00 - 22:00
+        \n\n Phone: 0055 987-3684
+        \n\n Official website:
+        \n lorem.ipsum@lorem.com
+    </string>
+
+    <string name="accommodation_4">Hotel_4</string>
+    <string name="information_4">
+        Address:
+        \n620 Eight Avenue New York, NY 10018
+        \n\n Opening time:
+        \n 9:00 - 22:00
+        \n\n Phone: 0055 987-3684
+        \n\n Official website:
+        \n lorem.ipsum@lorem.com
+    </string>
+
+    <string name="accommodation_5">Hotel_5</string>
+    <string name="information_5">
+        Address:
+        \n620 Eight Avenue New York, NY 10018
+        \n\n Opening time:
+        \n 9:00 - 22:00
+        \n\n Phone: 0055 987-3684
+        \n\n Official website:
+        \n lorem.ipsum@lorem.com
+    </string>
+
+
+    <string name="coffee_shop_1">Coffee Shop</string>
+    <string name="coffee_shop_2">Coffee Late</string>
+    <string name="coffee_shop_3">Coffee to Go</string>
+    <string name="coffee_shop_4">Coffee Nes</string>
+    <string name="coffee_shop_5">Espresso</string>
+
+    <string name="restaurants_1">Food</string>
+    <string name="restaurants_2">Wing</string>
+    <string name="restaurants_3">Ninety Nine</string>
+    <string name="restaurants_4">Wings ETC</string>
+    <string name="restaurants_5">Mr.Pretzels</string>
+    <string name="restaurants_6">Smoke House</string>
+    <string name="restaurants_7">Zizzi\'s</string>
+    <string name="restaurants_8">Papa Johns</string>
+    <string name="restaurants_9">Hamburger</string>
+
+
+    <string name="sport_1">Football</string>
+    <string name="sport_2">Basketball</string>
+    <string name="sport_3">Volleyball</string>
+    <string name="sport_4">Tennis</string>
+    <string name="sport_5">Cycling</string>
+    <string name="sport_6">Mounting Bike</string>
+
+    <string name="hotel">Hotel</string>
+
+
+    <string name="info_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ipsum sed leo facilisis hendrerit.
+        Nunc tincidunt cursus justo ac mattis. Ut laoreet vitae tellus et molestie.
+        Sed pharetra nibh eget dolor vehicula condimentum. Morbi lobortis odio non lobortis porttitor.
+        Ut ligula leo, convallis a tincidunt et, gravida ut purus. Morbi vitae convallis risus.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ipsum sed leo facilisis hendrerit.
+        Nunc tincidunt cursus justo ac mattis. Ut laoreet vitae tellus et molestie.
+        Sed pharetra nibh eget dolor vehicula condimentum. Morbi lobortis odio non lobortis porttitor.
+        Ut ligula leo, convallis a tincidunt et, gravida ut purus. Morbi vitae convallis risus.
+
+    </string>
+
+    <string name="information">
+        Address:
+        \n620 Eight Avenue New York, NY 10018
+        \n\n Opening time:
+        \n 9:00 - 22:00
+        \n\n Phone: 0055 987-3684
+        \n\n Official website:
+        \n lorem.ipsum@lorem.com
+    </string>
+
+    <string name="address">620 Eight Avenue New York, NY 10018</string>
+    <string name="time">09:00 - 23:00</string>
+    <string name="phone">065-123-654</string>
+    <string name="website">www.loremipsum.com</string>
+    <string name="mail">lorem.ipsum@lorem.com</string>
+
+    <string name="coffee_description">Cafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe Shop
+    Cafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe ShopCafe</string>
+
+    <string name="restaurant_description">Restaurant Restaurant Restaurant Restaurant Restaurant Restaurant 
+        Restaurant Restaurant Restaurant RestaurantRestaurant Restaurant</string>
+
+    <string name="sport_description">Sport And Fun Sport And Fun Sport And Fun Sport And Fun Sport And Fun
+    Sport And Fun Sport And Fun Sport And Fun Sport And Fun Sport And Fun Sport And Fun Sport And Fun</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="categoryCoffee">Coffee Shops</string>
+    <string name="categoryRestaurants">Restaurants</string>
+    <string name="categoryHotel">Hotels</string>
+
+
+
+</resources>

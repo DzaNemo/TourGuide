@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">true</item>
+    </style>
+
+    <style name="locationTextView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/locationTextColor</item>
+    </style>
+
+    <style name="imageStyle">
+        <item name="android:layout_width">1000dp</item>
+        <item name="android:layout_height">1000dp</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="categoryTab" parent="Widget.Design.TabLayout">
+        <item name="android:actionBarTabTextStyle">@style/categoryTabTextAppearance</item>
+        <item name="tabMode">scrollable</item>
+    </style>
+
+    <style name="categoryTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#a8a19e</item>
+        <item name="color">@color/colorPrimary</item>
+        <item name="textAllCaps">true</item>
+
+    </style>
+
+</resources>
